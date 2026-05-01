@@ -1,0 +1,4 @@
+04/30/2026 -- Created Siren Simulator, And Changed A lot
+05/1/2026 -- One Day Later, Uploaded To GitHub, Changed A lot, Also Added Retro Version
+05/1/2026 (2) -- Changed UI, Updated A Preset For Retro And Normal, Fixed Bugs.
+--END OF LOG FOR NOW--
